@@ -4,6 +4,7 @@ A vagrant box provisioned for development
 
 ## Related project(s)
 - https://github.com/rokhmanov/packer-teiid
+- http://brianflove.com/2014/06/09/vmware-fusion-to-virtual-box/
 
 # Notes on VirtualBox, Packer and Vagrant
 
