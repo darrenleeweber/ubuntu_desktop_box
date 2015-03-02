@@ -18,6 +18,8 @@ A vagrant box provisioned for development
   - install compatible extension package for additional device modules, e.g.
      http://download.virtualbox.org/virtualbox/4.3.22/Oracle_VM_VirtualBox_Extension_Pack-4.3.22-98236.vbox-extpack
   - after VirtualBox is installed, vagrant can use it to run a virtual machine (VM) on the host system
+- Ubuntu notes on installing VirtualBox guest additions
+  - http://askubuntu.com/questions/22743/how-do-i-install-guest-additions-in-a-virtualbox-vm
 
 ## Packer.io
 - used to create new virtual machines for many platforms from a common specification (using json documents)
