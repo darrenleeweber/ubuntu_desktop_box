@@ -1,12 +1,13 @@
-# ubuntu_desktop_box
-A vagrant box provisioned for development
+# Ubuntu Desktop Box
 
+A vagrant box provisioned for development
 
 ## Related project(s)
 - https://github.com/rokhmanov/packer-teiid
 
+# Notes on VirtualBox, Packer and Vagrant
 
-# VirtualBox
+## VirtualBox
 - vagrant requires a virtualization “provider”, like the open-source VirtualBox
 - https://www.virtualbox.org/
 - https://www.virtualbox.org/wiki/Downloads
@@ -18,7 +19,7 @@ A vagrant box provisioned for development
      http://download.virtualbox.org/virtualbox/4.3.22/Oracle_VM_VirtualBox_Extension_Pack-4.3.22-98236.vbox-extpack
   - after VirtualBox is installed, vagrant can use it to run a virtual machine (VM) on the host system
 
-# Packer.io
+## Packer.io
 - used to create new virtual machines for many platforms from a common specification (using json documents)
 - this is optional, for creation of custom boxes that can be used by vagrant providers like VirtualBox
 - https://www.packer.io/
@@ -40,7 +41,7 @@ $ which packer
 /usr/bin/packer
 ```
 
-# Vagrant
+## Vagrant
 - https://docs.vagrantup.com
 - https://www.vagrantup.com/downloads.html
 - OSX download:
