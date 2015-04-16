@@ -39,10 +39,11 @@ $ sudo chown -R root:wheel /usr/local/packer_0.7.5_darwin_amd64
 $ sudo chmod a+rx /usr/local/packer_0.7.5_darwin_amd64
 $ sudo ln -s /usr/local/packer_0.7.5_darwin_amd64 /usr/local/packer
 $ sudo -i
+# cd /usr/local/bin
 # for f in /usr/local/packer/*; do nf=$(basename $f); ln -s $f $nf; done
 # exit
 $ which packer
-/usr/bin/packer
+/usr/local/bin/packer
 ```
 
 ## Vagrant
