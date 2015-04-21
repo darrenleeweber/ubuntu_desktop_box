@@ -29,9 +29,9 @@ sudo apt-get install -y mongodb-org
 sudo apt-get install -y postgresql libpq-dev
 
 # Sublime Text 3
-sudo add-apt-repository -y ppa:webupd8team/sublime-text-3
-sudo apt-get update
-sudo apt-get install -y sublime-text-installer
+#sudo add-apt-repository -y ppa:webupd8team/sublime-text-3
+#sudo apt-get update
+#sudo apt-get install -y sublime-text-installer
 
 
 
