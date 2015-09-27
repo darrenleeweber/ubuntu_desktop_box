@@ -13,3 +13,31 @@ fi
 # git clone https://github.com/wbond/sublime_package_control.git "Package Control"
 # cd "Package Control"
 # git checkout python3
+
+# ## Sublime Text 3 Packages
+# - package control
+#   - https://packagecontrol.io/installation#st3
+# - autocomplete
+#   - https://github.com/alienhard/SublimeAllAutocomplete
+# - sublime linter
+#   - https://github.com/SublimeLinter
+#   - https://github.com/SublimeLinter/SublimeLinter3
+#   - http://sublimelinter.readthedocs.org/en/latest/
+# - vintageous
+#   -https://github.com/guillermooo/Vintageous
+# - git
+#   - https://packagecontrol.io/packages/GitGutter
+# - json
+#   - https://packagecontrol.io/packages/JSONLint
+#   - https://github.com/dzhibas/SublimePrettyJson
+# - ruby & rails
+#   - https://mattbrictson.com/sublime-text-3-recommendations
+#   - https://github.com/SublimeText/RSpec
+#   - https://packagecontrol.io/packages/DocBlockr
+#   - https://github.com/SublimeLinter/SublimeLinter-ruby
+#   - https://github.com/SublimeLinter/SublimeLinter-rubocop
+# - OSX
+#   - Dash App
+#     - https://kapeli.com/dash
+#   - DashDoc
+#     - https://github.com/farcaller/DashDoc#readme
