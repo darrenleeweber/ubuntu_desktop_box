@@ -5,6 +5,8 @@ pass=passwd
 useradd -mU -s /bin/bash --groups sudo $user
 echo $user:$pass | chpasswd
 
+apt-get install -y krb5-user
+
 # mkdir -p /home/$user/.ssh
 # ssh-keygen -b 1024 -f $user -t dsa
 # cat $user.pub | tee -a /home/$user/.ssh/authorized_keys
